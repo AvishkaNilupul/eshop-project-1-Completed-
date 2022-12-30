@@ -1,0 +1,88 @@
+
+@font-face{
+    font-family:"BebasNeue" ;
+    src: url(fronts/BebasNeue-Regular.ttf);
+}
+.bodym{
+    font-family: BebasNeue;
+}
+@font-face{
+    font-family:"Lobster" ;
+    src: url(fronts/Lobster-Regular.ttf);
+}
+.logo-big1{
+    margin-top: 5%;
+    font-family: Lobster;
+    font-size: 15rem;
+    text-align: center;
+}
+.navbarpa{
+    padding: 2%;
+    font-size: 1.5rem;
+}
+.navbar-brand:hover{
+    cursor: pointer;
+}
+.nav-link:hover{
+    cursor: pointer;
+}
+.h12{
+    font-size: 4rem;
+}
+
+.fffimg{
+    margin-top: -15%;
+    margin-left: 50%;
+    width: 60%;
+}
+.partm{
+    margin-top:3%;
+}
+.prosd{
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 5rem;
+    margin-left: -25%;
+
+
+}
+.girl{
+    background-color: rgb(175, 136, 84);
+
+}
+.middletop{
+    margin-top: 5%;
+}
+.recenta{
+    padding-left: 3%;
+    padding-bottom: 5%;
+}
+.logo-big2{
+    margin-top: 5%;
+    font-family: Lobster;
+    font-size: 5rem;
+    text-align: center;
+}
+.whyus{
+    text-align: center;
+}
+.about1{
+    background-color: #FD8A8A;
+}
+.contact5{
+    padding: 1%;
+    margin-top: 5%;
+    font-family: Lobster;
+    font-size: 3rem;
+    text-align: center;
+}
+.socialm{
+    padding-bottom: 2%;
+    text-align: center;
+}
+.col:hover{
+    cursor: pointer;
+}
+.igimg{
+    width: 9%;
+}
